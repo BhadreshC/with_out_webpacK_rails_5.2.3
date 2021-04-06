@@ -1,0 +1,21 @@
+/*@font-face {
+  font-family: 'Linearicons-Free';
+  src: url('../fonts/Linearicons-Free.woff');
+}
+
+h1 {
+  color: red;
+  font-family: 'Linearicons-Free';
+}*/
+
+@font-face {
+  font-family: 'paint-drops';
+  src: url('../fonts/PaintDropsRegular-0WaJo.ttf');
+}
+*{
+  font-family: 'paint-drops';
+}
+
+h1 {
+  color: red;
+}
